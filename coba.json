@@ -1,0 +1,11 @@
+{
+	"nama" : "Arsyidan",
+	"umur" : 17,
+	"sekolah" : "SMK Telkom",
+	"Hobby" : ["Gaming", "Tidur"],
+	"kelas" : "12 RPL 1",
+	"Mapel" : {
+		"KK2" :"database",
+		"KK4" : "pemrograman dasar"
+	}
+}
